@@ -17,13 +17,9 @@
 ---
 
 ### 🚀 Projects
-- 🖐️ **Gesture Controlled System**
-  - Control system volume, zoom, rotate 2D/3D images using hand gestures
-  - Technologies: Python, OpenCV, MediaPipe  
-
-- 🧠 **AI Voice Assistant**
-  - Voice-based assistant for system control & automation
-  - Technologies: Python, Speech Recognition, GPT APIs  
+- 🏦 **Bank Management System**
+  - Performing CRUD operation on the Bank Management System
+  - Technologies: Python, Streamlit  
 
 - 🚌 **Smart Bus Tracking Application**
   - Real-time bus location & route tracking using Google Maps API
