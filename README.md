@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | UI/UX Developer</h3>
 
 <p align="center">
-🎓 AI Engineer from <b>Priyadarshini College of Engineering, Nagpur</b><br>
+🎓 AI Engineer from <b>Priyadarshini BHagwati College of Engineering, Nagpur</b><br>
 💡 Passionate about Artificial Intelligence, Human–Computer Interaction & Smart Systems
 </p>
 
@@ -37,7 +37,7 @@
 - Python, Java, C
 
 **AI / ML**
-- OpenCV, MediaPipe, Machine Learning Basics
+- NumPy, Pandas, Machine Learning Basics
 
 **Web Development**
 - HTML, CSS, Bootstrap
@@ -46,7 +46,7 @@
 - Figma, Wireframing, Prototyping
 
 **Databases**
-- MySQL, MongoDB, Firebase
+- MySQL, MongoDB
 
 **Tools & Platforms**
 - Arduino, MATLAB, Zapier, GitHub
