@@ -21,10 +21,6 @@
   - Performing CRUD operation on the Bank Management System
   - Technologies: Python, Streamlit  
 
-- 🚌 **Smart Bus Tracking Application**
-  - Real-time bus location & route tracking using Google Maps API
-  - Technologies: Firebase, Google Maps API, Android  
-
 - 🌐 **UI/UX Web Projects**
   - Responsive websites & dashboards
   - Tools: Figma, HTML, CSS, Bootstrap  
